@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 16, 2021 
+### Day 1: February 16, 2021 
 
 **Today's Progress**: I setup a node environment so I can easily work through the examples in the book. I started on the Effective JS book, going reading about Numbers (and a sidepath of Bitwise operators, 32bit ints and 64bit doubles), implicit coercion (how JS will convert types before operations), primitive types, and the === operator.
 
@@ -8,7 +8,15 @@
 
 **Link to work:** [Effective JS](https://github.com/Chris-Davies-Web/effective-JS)
 
+### Missed a day for personal reasons. 
 
+### Day 2: February 18, 2021 
+
+**Today's Progress**: Learned about 'automatic semicolon insertaion', how strings are represented in Unicode and a great example of closures!
+
+**Thoughts:** Today was good, learned lots again on topics that I thought I already knew pretty well!
+
+**Link to work:** [Effective JS](https://github.com/Chris-Davies-Web/effective-JS)
 
 
 
