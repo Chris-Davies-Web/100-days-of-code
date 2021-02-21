@@ -34,3 +34,11 @@
 **Thoughts:** Variadic functions is a new term, meaning a function which has variable-arity (arity being the number of arguments), as opposed to fixed-arity! Was a tired day after painting my front room but managed to squeeze in some time and I'm greatful for it!
 
 **Link to work:** [Effective JS](https://github.com/Chris-Davies-Web/effective-JS)
+
+### Day 5: February 21, 2021 
+
+**Today's Progress**: In depth look at the arguments array for functions
+
+**Thoughts:** Today was a struggle, early start to paint the living room, 3 hour walk with Jackson and Henly, when it came to working I was knackered. Managed to work for an hour but didn't make much progress, re-read each page about a million times. An hour done though!
+
+**Link to work:** [Effective JS](https://github.com/Chris-Davies-Web/effective-JS)
