@@ -42,3 +42,11 @@
 **Thoughts:** Today was a struggle, early start to paint the living room, 3 hour walk with Jackson and Henly, when it came to working I was knackered. Managed to work for an hour but didn't make much progress, re-read each page about a million times. An hour done though!
 
 **Link to work:** [Effective JS](https://github.com/Chris-Davies-Web/effective-JS)
+
+### Day 6: February 25, 2021 
+
+**Today's Progress**: I completed the Functions chapter, learning about bind and currying.
+
+**Thoughts:** After 3 days off due to losing my cat and spending my spare time looking for him, I got back into it. Was good and I enjoyed learning about currying and closures a bit more. I will try to use this in my code at work today. 
+
+**Link to work:** [Effective JS](https://github.com/Chris-Davies-Web/effective-JS)
