@@ -50,3 +50,19 @@
 **Thoughts:** After 3 days off due to losing my cat and spending my spare time looking for him, I got back into it. Was good and I enjoyed learning about currying and closures a bit more. I will try to use this in my code at work today. 
 
 **Link to work:** [Effective JS](https://github.com/Chris-Davies-Web/effective-JS)
+
+### Day 7: February 26, 2021 
+
+**Today's Progress**: began the object and prototyping chapter, looking into using closures on constructors
+
+**Thoughts:** Really enjoyed thgis chapter. Some great stuff on using protoype and getting a deeper understanding of how prototype methods work.
+
+**Link to work:** [Effective JS](https://github.com/Chris-Davies-Web/effective-JS)
+
+### Day 8: February 28, 2021 
+
+**Today's Progress**: A day off from the Effective JS, having a week of presentations on Lighthouse reporting for a client I took a few hours to make sure I really knew my stuff!
+
+**Thoughts:** I'm very glad I took the time on a Sunday to do this, learnt a lot and it has given me confidence for the presentations this week!
+
+**Link to work:** https://developers.google.com/web/tools/lighthouse
